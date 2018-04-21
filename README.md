@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This may, at some point, contain valuable information
